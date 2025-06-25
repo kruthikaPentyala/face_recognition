@@ -1,6 +1,3 @@
-![](ui_snapshot.jpg)
-
----
 
 # 🏆 Sports Personality Classifier
 
@@ -88,3 +85,8 @@ The UI built with HTML/CSS/JS allows users to upload an image and get real-time 
 3. **Open the UI**
    Open UI/index.html in your browser (ensure it can communicate with the local Flask server).
 
+---
+
+![](ui_snapshot.jpg)
+
+---
